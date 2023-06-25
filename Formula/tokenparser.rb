@@ -6,6 +6,6 @@ class Tokenparser < Formula
   version "1.8.1"
 
   def install
-    bin.install "tokenparser"
+    bin.install "design_token_parser"
   end
 end
