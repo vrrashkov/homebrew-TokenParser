@@ -1,4 +1,4 @@
-class TokenParser < Formula
+class Tokenparser < Formula
   desc "Token parser for figma tokens"
   homepage "https://github.com/vrrashkov/TokenParser"
   url "https://github.com/vrrashkov/TokenParser/archive/refs/tags/v1.8.1.tar.gz"
